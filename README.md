@@ -11,3 +11,7 @@ This config requires `eslint`, `eslint-plugin-import`, `eslint-plugin-react`, an
 
 See the [ESlint config docs](http://eslint.org/docs/user-guide/configuring#extending-configuration-files)
 for more information.
+
+## License
+
+MIT
