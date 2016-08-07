@@ -22,6 +22,7 @@ module.exports = {
         'react/prefer-es6-class': 0,
         'react/jsx-filename-extension': 0,
         'react/prefer-stateless-function': 0,
+        'no-mixed-operators': [2, { allowSamePrecedence: true }],
 
         'import/prefer-default-export': 0,
 
