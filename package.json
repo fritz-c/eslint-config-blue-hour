@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-blue-hour",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Another biased eslintrc config, extending airbnb's",
   "author": "Chris Fritz",
   "license": "MIT",
