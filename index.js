@@ -29,6 +29,7 @@ module.exports = {
         'comma-dangle': 0,
         'one-var': 0,
         'no-underscore-dangle': 0,
+        'no-continue': 0,
         'quote-props': [2, 'as-needed', { keywords: true, unnecessary: false }],
         'key-spacing': [1, { beforeColon: false, afterColon: true, mode: 'minimum' }],
         'array-bracket-spacing': 0,
