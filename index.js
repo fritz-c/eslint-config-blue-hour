@@ -13,7 +13,10 @@ module.exports = {
             'error',
             'always'
         ],
-        'no-unused-vars': ['error', { argsIgnorePattern: '^_' }],
+        'no-unused-vars': ['error', {
+            argsIgnorePattern: '^_',
+            varsIgnorePattern: '^_',
+        }],
 
         'indent': [2, 4],
         'react/sort-comp': 0,
