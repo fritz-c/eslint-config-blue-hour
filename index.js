@@ -45,6 +45,7 @@ module.exports = {
         // Import settings
         // ----------------------------
         'import/prefer-default-export': 0,
+        'import/extensions': [2, { js: 'never' }],
 
         // ----------------------------
         // JSX a11y settings
