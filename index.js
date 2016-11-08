@@ -50,7 +50,7 @@ module.exports = {
         // ----------------------------
         // JSX a11y settings
         // ----------------------------
-        'jsx-a11y/no-static-element-interactions': 0,
+        'jsx-a11y/no-static-element-interactions': 1,
 
         // ----------------------------
         // React settings
